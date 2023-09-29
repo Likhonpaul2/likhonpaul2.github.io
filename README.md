@@ -1,2 +1,2 @@
-# likhonpaul2.github.io
+# JavascriptAssignment.github.io
 Assignment Projects
